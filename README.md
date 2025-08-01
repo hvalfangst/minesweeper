@@ -1,6 +1,9 @@
 # Minesweeper
 
-A Rust [WebAssembly](https://webassembly.org/) implementation of the classic Minesweeper game.
+A Rust [WebAssembly](https://webassembly.org/) implementation of the classic Minesweeper game. 
+
+Can be played in your web browser by accessing the following URL:
+https://hvalfangst.github.io/minesweeper
 
 ## Prerequisites
 - [Rust](https://www.rust-lang.org/tools/install)
